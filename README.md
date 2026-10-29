@@ -74,4 +74,4 @@ Les exemples des skills utilisent une entreprise fictive, Atelio Formation.
 
 ## Aller plus loin
 
-Pour construire vos propres agents marketing avec un mentor : [le parcours Agent IA Marketing de Mantra](https://formations.mantra.work/agent-ia/?utm_source=github&utm_medium=repo&utm_campaign=linkedin-multi-guidepilote-202610&utm_content=readme-fin).
+Pour construire vos propres agents marketing avec un formateur : [le parcours Agent IA Marketing de Mantra](https://formations.mantra.work/agent-ia/?utm_source=github&utm_medium=repo&utm_campaign=linkedin-multi-guidepilote-202610&utm_content=readme-fin).
